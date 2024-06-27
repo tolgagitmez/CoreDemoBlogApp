@@ -1,0 +1,12 @@
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\bin\Debug\net8.0\CoreLayer.deps.json
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\bin\Debug\net8.0\CoreLayer.dll
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\bin\Debug\net8.0\CoreLayer.pdb
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\obj\Debug\net8.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfo.cs
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\obj\Debug\net8.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\obj\Debug\net8.0\CoreLayer.sourcelink.json
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\obj\Debug\net8.0\CoreLayer.dll
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\obj\Debug\net8.0\refint\CoreLayer.dll
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\obj\Debug\net8.0\CoreLayer.pdb
+C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\CoreLayer\obj\Debug\net8.0\ref\CoreLayer.dll
