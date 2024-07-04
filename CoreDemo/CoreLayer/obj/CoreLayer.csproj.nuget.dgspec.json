@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\teteg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\obj\\",
+        "outputPath": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\teteg\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,3 +10,15 @@ C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\n
 C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
 C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
 C:\Users\teteg\Masaüstü\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll

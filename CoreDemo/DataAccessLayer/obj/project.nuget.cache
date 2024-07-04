@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ILlJuCBUBiGQ4GglVOpn81wjL0UUnNvdiWMzgOnCJdNss1fu0+cFRsRvLxw3RGD04lpm/RjA0HhNGFMKXer4Q==",
+  "dgSpecHash": "2XiVqjj5UaOgVIRd/32tlch2tI6VQF55aeJ1DRDlPVlcT0UvJRU7DRG2PR4TVN93dlXWPGy3kwKS9656GGy5oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\teteg\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

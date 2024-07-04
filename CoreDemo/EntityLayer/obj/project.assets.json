@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\teteg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\teteg\\AppData\\Roaming\\NuGet\\NuGet.Config",

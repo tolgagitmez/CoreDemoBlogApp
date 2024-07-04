@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BDRG80KVS8/6dD33H82ZsNEHFdgY4SGo/5Gkm8qcOP6dBozuoc7A5nplZMGkPYPX0jnrD8Ay3WR40x3KmI6y0g==",
+  "dgSpecHash": "cg72g+CFexIbiT5w5ZLhEieIgzBj0aPY1FtF31/4tozCXWPkVSygpRgwZq3KJy+fEDVkFoibCiIQG6pABWrw5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\teteg\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

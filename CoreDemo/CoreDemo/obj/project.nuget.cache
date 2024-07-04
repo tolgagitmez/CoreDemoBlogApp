@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/olzO14PGCTewYpl1WGMaH9l4OaXCttLP7pZMD9z8+WplkK3TkEZ6g6BtRDCDsn+BrpvzHXhkoy+nQPrz4P/xA==",
+  "dgSpecHash": "LW6Lgqy3IZL+xq27PR0z0GAWeoJxKPzsyKU9OpZcoHlNA8rmeSOMU9+wywhFWOt6uyrhbXNiZZgxn22tnEH1oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\teteg\\Masaüstü\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\teteg\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
