@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\CoreDemo.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\wwwroot\\WriterImageFiles\\8794a53a-a8aa-4367-98c5-4dc35857f675.jpg",
+      "PackagePath": "staticwebassets\\WriterImageFiles\\8794a53a-a8aa-4367-98c5-4dc35857f675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\wwwroot\\WriterImageFiles\\a74bdb18-e21b-450c-b2c4-dec863cd526a.jpg",
+      "PackagePath": "staticwebassets\\WriterImageFiles\\a74bdb18-e21b-450c-b2c4-dec863cd526a.jpg"
+    },
+    {
       "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

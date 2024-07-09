@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N502EuAdnj9e3d0Wc4AkxoNVi+Rxzm+OH+4omSKar+0=",
+  "Hash": "JIUOHrXk500de+GF/r/7KtPj4Xz7gYMNnmmqlsKwi9I=",
   "Source": "CoreDemo",
   "BasePath": "_content/CoreDemo",
   "Mode": "Default",
@@ -5620,6 +5620,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\writer\\screenshot.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\wwwroot\\WriterImageFiles\\8794a53a-a8aa-4367-98c5-4dc35857f675.jpg",
+      "SourceId": "CoreDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "BasePath": "_content/CoreDemo",
+      "RelativePath": "WriterImageFiles/8794a53a-a8aa-4367-98c5-4dc35857f675.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\WriterImageFiles\\8794a53a-a8aa-4367-98c5-4dc35857f675.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\wwwroot\\WriterImageFiles\\a74bdb18-e21b-450c-b2c4-dec863cd526a.jpg",
+      "SourceId": "CoreDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "BasePath": "_content/CoreDemo",
+      "RelativePath": "WriterImageFiles/a74bdb18-e21b-450c-b2c4-dec863cd526a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\WriterImageFiles\\a74bdb18-e21b-450c-b2c4-dec863cd526a.jpg"
     }
   ]
 }
