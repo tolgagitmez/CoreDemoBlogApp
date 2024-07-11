@@ -5,10 +5,6 @@
 }
 
 <h1>Blog Düzenleme Sayfası</h1>
-@Html.HiddenFor(x => x.BlogID)
-@Html.HiddenFor(x => x.BlogStatus)
-@Html.HiddenFor(x => x.WriterID)
-@Html.HiddenFor(x => x.BlogCreateDate)
 @using (Html.BeginForm("EditBlog", "Blog", FormMethod.Post))
 {
     @Html.HiddenFor(x => x.BlogID)

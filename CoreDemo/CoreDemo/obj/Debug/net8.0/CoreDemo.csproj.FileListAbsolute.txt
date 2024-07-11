@@ -292,6 +292,7 @@ C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bi
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -363,6 +364,7 @@ C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bi
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\ar\Humanizer.resources.dll
