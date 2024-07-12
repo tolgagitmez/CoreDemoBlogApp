@@ -1,5 +1,6 @@
 ﻿using BusinessLayer.Concrete;
 using BusinessLayer.ValidationRules;
+using DataAccessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using FluentValidation.Results;
@@ -10,11 +11,11 @@ using Microsoft.CodeAnalysis.Elfie.Serialization;
 
 namespace CoreDemo.Controllers
 {
-    [AllowAnonymous]
     public class BlogController : Controller
     {
         CategoryManager cm = new CategoryManager(new EfCategoryRepository());
         BlogManager bm = new BlogManager(new EfBlogRepository());
+        Context c = new Context();
         public IActionResult Index()
         {
             var values = bm.GetBlogListWithCategory();
@@ -30,13 +31,17 @@ namespace CoreDemo.Controllers
 
         public IActionResult BlogListByWriter()
         {
-            var values = bm.GetBlogListWithCategoryByWriterBm(4);
+            var usermail = User.Identity.Name;
+            var writerID = c.Writers.Where(x => x.WriterMail == usermail).Select(y => y.WriterID).FirstOrDefault();
+            var values = bm.GetBlogListWithCategoryByWriterBm(writerID);
             return View(values);
         }
 
         [HttpGet]
         public IActionResult BlogAdd()
         {
+            
+            
             CategoryManager cm = new CategoryManager(new EfCategoryRepository());
             List<SelectListItem> categoryvalues =(from x in cm.GetList()
                                                   select new SelectListItem
@@ -50,13 +55,15 @@ namespace CoreDemo.Controllers
         [HttpPost]
         public IActionResult BlogAdd(Blog p)
         {
+            var usermail = User.Identity.Name;
+            var writerID = c.Writers.Where(x => x.WriterMail == usermail).Select(y => y.WriterID).FirstOrDefault();
             BlogValidator bv = new BlogValidator();
             ValidationResult results = bv.Validate(p);
             if (results.IsValid)
             {
                 p.BlogStatus = true;
                 p.BlogCreateDate = DateTime.Parse(DateTime.Now.ToShortDateString());
-                p.WriterID = 1;
+                p.WriterID = writerID;
                 bm.TAdd(p);
 
                 return RedirectToAction("BlogListByWriter", "Blog");
@@ -81,7 +88,9 @@ namespace CoreDemo.Controllers
         [HttpGet]
         public IActionResult EditBlog(int id)
         {
-            var blogvalue = bm.GetById(id);
+            var usermail = User.Identity.Name;
+            var writerID = c.Writers.Where(x => x.WriterMail == usermail).Select(y => y.WriterID).FirstOrDefault();
+            var blogvalue = bm.GetById(writerID);
 
             CategoryManager cm = new CategoryManager(new EfCategoryRepository());
             List<SelectListItem> categoryvalues = (from x in cm.GetList()
