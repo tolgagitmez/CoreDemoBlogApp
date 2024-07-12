@@ -26,12 +26,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/teteg/Masaüstü/dosyalarım/proje/CoreDemoBlogApp/CoreDemo/CoreDemo/Areas/Admin/Views/Shared/SideMenuParticial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXFNpZGVNZW51UGFydGljaWFsLmNzaHRtbA==
+[C:/Users/teteg/Masaüstü/dosyalarım/proje/CoreDemoBlogApp/CoreDemo/CoreDemo/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/teteg/Masaüstü/dosyalarım/proje/CoreDemoBlogApp/CoreDemo/CoreDemo/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+[C:/Users/teteg/Masaüstü/dosyalarım/proje/CoreDemoBlogApp/CoreDemo/CoreDemo/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/teteg/Masaüstü/dosyalarım/proje/CoreDemoBlogApp/CoreDemo/CoreDemo/Views/About/Index.cshtml]
@@ -176,6 +176,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/teteg/Masaüstü/dosyalarım/proje/CoreDemoBlogApp/CoreDemo/CoreDemo/Views/Shared/Partial3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teteg/Masaüstü/dosyalarım/proje/CoreDemoBlogApp/CoreDemo/CoreDemo/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/teteg/Masaüstü/dosyalarım/proje/CoreDemoBlogApp/CoreDemo/CoreDemo/Views/Shared/_UserLayout.cshtml]

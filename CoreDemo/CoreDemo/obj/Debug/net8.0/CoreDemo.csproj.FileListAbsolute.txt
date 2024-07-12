@@ -548,3 +548,5 @@ C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\ob
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\obj\Debug\net8.0\CoreDemo.pdb
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\obj\Debug\net8.0\CoreDemo.genruntimeconfig.cache
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\obj\Debug\net8.0\ref\CoreDemo.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
