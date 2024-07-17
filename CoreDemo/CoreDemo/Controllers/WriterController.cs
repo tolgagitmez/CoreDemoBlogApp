@@ -7,21 +7,25 @@ using EntityLayer.Concrete;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace CoreDemo.Controllers
 {
 	public class WriterController : Controller
 	{
 		WriterManager wm = new WriterManager(new EfWriterRepository());
-		[Authorize]
+        
+        [Authorize]
+
 		public IActionResult Index()
 		{
+            Context c = new Context();
             var usermail = User.Identity.Name;
 
-            Context c = new Context();
+            
 			var writerName = c.Writers.Where(x => x.WriterMail==usermail).Select(y =>  y.WriterName).FirstOrDefault();
 			
-			ViewBag.v = usermail;
+			ViewBag.v = writerName;
 			return View();
 		}
 
@@ -33,11 +37,6 @@ namespace CoreDemo.Controllers
 		public IActionResult Test()
 		{
 			return View();
-		}
-		[AllowAnonymous]
-		public PartialViewResult WriterNavBarPartial()
-		{
-			return PartialView();
 		}
 
 		[AllowAnonymous]
