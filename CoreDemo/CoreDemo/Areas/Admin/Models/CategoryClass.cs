@@ -1,4 +1,4 @@
-﻿namespace CoreDemo.Models
+﻿namespace CoreDemo.Areas.Admin.Models
 {
     public class CategoryClass
     {

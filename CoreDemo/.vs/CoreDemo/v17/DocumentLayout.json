@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\views\\chart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\chart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\areas\\admin\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\areas\\admin\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\models\\categoryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\models\\categoryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\areas\\admin\\models\\writerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\models\\writerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\areas\\admin\\views\\shared\\components\\statistic1\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\shared\\components\\statistic1\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\areas\\admin\\viewcomponents\\statistic\\statistic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\viewcomponents\\statistic\\statistic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\areas\\admin\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Chart\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Chart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Chart\\Index.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Chart\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Writer\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Writer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Writer\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Writer\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwEYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T03:17:59.444Z",
+              "WhenOpened": "2024-08-08T23:58:53.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChartController.cs",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Controllers\\ChartController.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\ChartController.cs",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Controllers\\ChartController.cs",
-              "RelativeToolTip": "CoreDemo\\Controllers\\ChartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "DocumentIndex": 0,
+              "Title": "WriterController.cs",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Controllers\\WriterController.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Controllers\\WriterController.cs",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Controllers\\WriterController.cs",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Controllers\\WriterController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T03:06:48.264Z",
+              "WhenOpened": "2024-08-08T22:19:12.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryClass.cs",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Models\\CategoryClass.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\Models\\CategoryClass.cs",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Models\\CategoryClass.cs",
-              "RelativeToolTip": "CoreDemo\\Models\\CategoryClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Title": "WriterClass.cs",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Models\\WriterClass.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Models\\WriterClass.cs",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Models\\WriterClass.cs",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Models\\WriterClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T03:05:33.717Z",
+              "WhenOpened": "2024-07-23T06:24:53.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
-              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T02:35:24.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Statistic1.cs",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\ViewComponents\\Statistic\\Statistic1.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\ViewComponents\\Statistic\\Statistic1.cs",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\ViewComponents\\Statistic\\Statistic1.cs",
-              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\ViewComponents\\Statistic\\Statistic1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABjAAAA",
+              "Title": "ChartController.cs",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Controllers\\ChartController.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Controllers\\ChartController.cs",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Controllers\\ChartController.cs",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Controllers\\ChartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T02:35:07.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T02:25:27.845Z"
             }
           ]
         }

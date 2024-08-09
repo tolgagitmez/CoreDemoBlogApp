@@ -1,12 +1,12 @@
-﻿using CoreDemo.Models;
+﻿using CoreDemo.Areas.Admin.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CoreDemo.Controllers
+namespace CoreDemo.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class ChartController : Controller
     {
-        
+
         public IActionResult Index()
         {
             return View();
@@ -30,7 +30,7 @@ namespace CoreDemo.Controllers
                 categorycount = 5,
                 categoryname = "Spor"
             });
-            return Json(new {jsonlist= list});
+            return Json(new { jsonlist = list });
         }
     }
 }
