@@ -22,3 +22,4 @@ C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache

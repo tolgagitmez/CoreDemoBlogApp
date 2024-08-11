@@ -859,3 +859,8 @@ C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bi
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\System.IO.Packaging.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\XLParser.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\obj\Debug\net8.0\CoreDemo.csproj.Up2Date
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\CoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

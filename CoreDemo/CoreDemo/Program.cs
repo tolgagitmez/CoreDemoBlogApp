@@ -1,3 +1,5 @@
+using DataAccessLayer.Concrete;
+using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
@@ -5,6 +7,13 @@ using Microsoft.AspNetCore.Mvc.Authorization;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<Context>();
+builder.Services.AddIdentity<AppUser,AppRole>(x =>
+{
+    x.Password.RequireUppercase=false;
+    x.Password.RequireLowercase=false;
+})
+    .AddEntityFrameworkStores<Context>();
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 builder.Services.AddSession();
 builder.Services.AddMvc(config =>
@@ -32,7 +41,6 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-
 app.UseStatusCodePagesWithReExecute("/ErrorPage/Error1", "?code={0}");
 app.UseHttpsRedirection();
 app.UseStaticFiles();
