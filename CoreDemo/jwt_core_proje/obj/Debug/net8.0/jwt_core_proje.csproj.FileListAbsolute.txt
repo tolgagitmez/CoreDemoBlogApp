@@ -1,0 +1,8 @@
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\jwt_core_proje\obj\Debug\net8.0\jwt_core_proje.csproj.AssemblyReference.cache
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\jwt_core_proje\obj\Debug\net8.0\jwt_core_proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\jwt_core_proje\obj\Debug\net8.0\jwt_core_proje.AssemblyInfoInputs.cache
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\jwt_core_proje\obj\Debug\net8.0\jwt_core_proje.AssemblyInfo.cs
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\jwt_core_proje\obj\Debug\net8.0\jwt_core_proje.csproj.CoreCompileInputs.cache
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\jwt_core_proje\obj\Debug\net8.0\jwt_core_proje.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\jwt_core_proje\obj\Debug\net8.0\jwt_core_proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teteg\Masaüstü\dosyalarım\proje\CoreDemoBlogApp\CoreDemo\jwt_core_proje\obj\Debug\net8.0\jwt_core_proje.sourcelink.json
