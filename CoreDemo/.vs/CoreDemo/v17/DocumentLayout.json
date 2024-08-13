@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\views\\admin\\adminnavbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\admin\\adminnavbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\views\\shared\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\views\\comment\\partialaddcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\comment\\partialaddcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\views\\newslatter\\subscribemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\newslatter\\subscribemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\coredemoblogapp\\coredemo\\coredemo\\areas\\admin\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D16CAE-D5CE-4D53-B4E7-FD541F963BFC}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WriterController.cs",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Controllers\\WriterController.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\WriterController.cs",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Controllers\\WriterController.cs",
-              "RelativeToolTip": "CoreDemo\\Controllers\\WriterController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwDQAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T00:51:40.168Z",
+              "Title": "AdminNavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Admin\\AdminNavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Admin\\AdminNavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Admin\\AdminNavbarPartial.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Admin\\AdminNavbarPartial.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T05:35:05.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Partial2.cshtml",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Shared\\Partial2.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\Partial2.cshtml",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Shared\\Partial2.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Shared\\Partial2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Comment\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Comment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Comment\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Comment\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEwAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T00:39:52.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PartialAddComment.cshtml",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Comment\\PartialAddComment.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Comment\\PartialAddComment.cshtml",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Comment\\PartialAddComment.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Comment\\PartialAddComment.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T00:31:43.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SubscribeMail.cshtml",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Newslatter\\SubscribeMail.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Newslatter\\SubscribeMail.cshtml",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\CoreDemoBlogApp\\CoreDemo\\CoreDemo\\Views\\Newslatter\\SubscribeMail.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Newslatter\\SubscribeMail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T00:13:12.001Z",
+              "WhenOpened": "2024-08-13T05:20:58.245Z",
               "EditorCaption": ""
             }
           ]

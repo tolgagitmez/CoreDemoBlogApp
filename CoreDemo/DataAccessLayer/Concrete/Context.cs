@@ -31,7 +31,9 @@ namespace DataAccessLayer.Concrete
                 .HasForeignKey(z => z.ReceiverID)
                 .OnDelete(DeleteBehavior.ClientSetNull);
 
-            base.OnModelCreating(modelBuilder);
+			modelBuilder.Entity<Comment>().ToTable(tb => tb.UseSqlOutputClause(false));
+
+			base.OnModelCreating(modelBuilder);
         }
 
         public DbSet<About> Abouts { get; set; }

@@ -6,6 +6,7 @@ using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -14,8 +15,15 @@ namespace CoreDemo.Controllers
 	public class WriterController : Controller
 	{
 		WriterManager wm = new WriterManager(new EfWriterRepository());
-        
-        [Authorize]
+        UserManager userManager = new UserManager(new EfUserRepository());
+        private readonly UserManager<AppUser> _userManager;
+
+		public WriterController(UserManager<AppUser> userManager)
+		{
+			_userManager = userManager;
+		}
+
+		[Authorize]
 
 		public IActionResult Index()
 		{
@@ -46,37 +54,26 @@ namespace CoreDemo.Controllers
         }
 
 		[HttpGet]
-        public IActionResult WriterEditProfile()
+        public async Task<IActionResult> WriterEditProfile()
 		{
-			Context c = new Context();
-            var username = User.Identity.Name;
-			var usermail = c.Users.Where(x => x.UserName == username).Select(y => y.Email).FirstOrDefault();
-
-			var writerID = c.Writers.Where(x => x.WriterMail == usermail).Select(y => y.WriterID).FirstOrDefault();
-            var writervalues = wm.GetById(writerID);
-			return View(writervalues);
+            var values = await _userManager.FindByNameAsync(User.Identity.Name);
+			UserUpdateViewModel model = new UserUpdateViewModel();
+            model.mail = values.Email;
+            model.namesurname = values.NameSurname;
+            model.imageurl = values.ImageUrl;
+            return View(model);
 		}
 
         [HttpPost]
-        public IActionResult WriterEditProfile(Writer p)
+        public async Task<IActionResult> WriterEditProfile(UserUpdateViewModel model)
         {
-            WriterValidator wl = new WriterValidator();
-			ValidationResult results = wl.Validate(p);
-			if (results.IsValid)
-			{
-				p.WriterImage = "images/7.jpg";
-
-                wm.TUpdate(p);
-				return RedirectToAction("Index","Dashboard");
-			}
-			else
-			{
-				foreach (var item in results.Errors)
-				{
-					ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
-				}
-			}
-			return View();
+			var values = await _userManager.FindByNameAsync(User.Identity.Name);
+			values.Email = model.mail;
+            values.NameSurname = model.namesurname;
+            values.ImageUrl = model.imageurl;
+			values.PasswordHash=_userManager.PasswordHasher.HashPassword(values,model.password);
+			var result = await _userManager.UpdateAsync(values);
+            return RedirectToAction("Index", "Dashboard");
         }
 
 		[AllowAnonymous]
@@ -108,5 +105,7 @@ namespace CoreDemo.Controllers
 			wm.TAdd(w);
 			return RedirectToAction("Index","Dashboard");
         }
+
+		
     }
 }
